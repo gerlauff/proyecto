@@ -1,0 +1,96 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    background-color: #F0F0F0;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.titulo {
+    font-size: 24px;
+    color: #333;
+    margin-top: 50px;
+    font-size: 18px;
+    color: #666;
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+
+.datos {
+    font-size: 18px;
+    color: #666;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #666;
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+
+.boton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.boton:hover {
+    background-color: #666;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #FFFFFF;
+    width: 80%;
+    margin: auto;
+    border: 2px solid black; /* cambia el grosor del borde a 2px */
+}
+
+td {
+    border: 2px solid black; /* cambia el grosor del borde a 2px */
+    font-size: 16px;
+    padding: 5px;
+}
+
+/* Estilos para los enlaces */
+a {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #555;
+}
+
+.boton {
+    display: block;
+    margin: auto;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #40E0D0;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+
+}
+  
+.boton:hover {
+    background-color: #00CED1;
+}
+  
